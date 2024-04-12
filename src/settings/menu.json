@@ -1,10 +1,12 @@
 {
-  "siteTitle": "Your Name Here",
+  "siteTitle": "CaptainPawsArt",
   "position": {
-    "discriminant": "top",
+    "discriminant": "side",
     "value": {
-      "u": "1712840379550",
-      "alwaysDropdown": false
+      "u": "1712879066176",
+      "layout": {
+        "width": "clamp(25%, 25%, 400px)"
+      }
     }
   },
   "appearance": {
